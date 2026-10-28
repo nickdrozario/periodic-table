@@ -26,3 +26,4 @@ fi
 
 
 # Formatting indentation
+# Optimizing query logic
